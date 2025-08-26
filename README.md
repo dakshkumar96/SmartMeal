@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3-lightgrey)](https://flask.palletsprojects.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple)](https://getbootstrap.com/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 A smart web app that helps students and busy people plan affordable, healthy meals based on their budget, diet, allergies, and cooking skills – with zero external APIs.
 
@@ -58,10 +58,5 @@ SmartMeal is a **Python + Flask-based meal planner** that generates personalized
 ### Prerequisites
 - Python 3.8+
 - pip
-
-### Installation
-
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/smartmeal.git
-cd smartmeal
+**##💡 Why We Built This**
+We wanted to solve a real problem: students often struggle to eat healthy due to limited time, budget, and cooking experience. SmartMeal makes it easy to eat well without the stress – no subscriptions, no ads, just a simple tool that works.
