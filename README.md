@@ -56,5 +56,11 @@ SmartMeal is a **Python + Flask-based meal planner** that generates personalized
 - Python 3.8+
 - pip
 
-### 💡 Why We Built This
+### 💡Why We Built This
 We wanted to solve a real problem: students often struggle to eat healthy due to limited time, budget, and cooking experience. SmartMeal makes it easy to eat well without the stress – no subscriptions, no ads, just a simple tool that works.
+
+### 🔮 Future Ideas
+Nutrition tracking (calories, protein)
+User accounts and saved preferences
+Recipe import/export
+Meal prep tutorials
