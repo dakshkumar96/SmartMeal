@@ -68,9 +68,15 @@ We wanted to solve a real problem: students often struggle to eat healthy due to
 📁 Project Structure
 smartmeal/
 ├── app.py # Flask server and routes
+
 ├── planner.py # Core meal planning logic
+
 ├── static/
+
 │ └── script.js # Frontend JavaScript
+
 ├── templates/
+
 │ └── index.html # Main UI page
+
 └── README.md
