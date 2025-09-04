@@ -307,11 +307,7 @@ class MealPlanner:
         grocery = defaultdict(list)
         for r in selected:
             for ing in r["ingredients"]:
-                grocery[ing["name"]].append(ing["quantity"])
-
-        # cost arrays
-        costs   = np.array([r["cost"] for r in selected])
-      
+                grocery[ing["name"]].append(ing["quantity"])      
 
     
 
@@ -326,10 +322,8 @@ class MealPlanner:
                 "per_meal": total_cost / total_meals,
                 "per_day":  total_cost / 7,
 
-            },
-            "charts": {
-                
             }
         }
 
         return result, None
+
